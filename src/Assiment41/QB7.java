@@ -1,0 +1,14 @@
+package Assiment41;
+//7. Print the square of all numbers from 1 to 10.
+public class QB7 {
+
+	public static void main(String[] args) {
+		
+	int a =1;
+	
+	while(a<=10) {
+		System.out.println(a*a);
+		a++;
+	}
+	}
+}
