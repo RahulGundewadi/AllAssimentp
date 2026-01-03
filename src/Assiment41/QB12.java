@@ -17,10 +17,11 @@ public class QB12 {
 				
 			sum +=i;
 			i+=2;
-			//System.out.println(sum);
-	
+			
 		    }
-			System.out.println(sum);
+			//System.out.println(sum);
 	    }
+		System.out.println(sum);
+    
 	}
 }

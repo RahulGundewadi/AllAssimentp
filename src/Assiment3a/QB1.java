@@ -13,12 +13,16 @@ public class QB1 {
 		int a = sc.nextInt();
 		int b = sc.nextInt();
 		
-		if(a%2==0 && b%2==0) {
-			if(a%2==0 && a>b) {
-				System.out.println("it is even and laeger"  +a);
+		int larger = Math.max(a, b);
+        int smaller = Math.min(a, b);
+		
+		if(larger%2==0) {
+			//	/*&& b%2==0)*/ {
+			
+				System.out.println("it is even and laeger"  + larger);
 			}else {
 				System.out.println("the smaller");
 			}
 		}
 	}
-}
+

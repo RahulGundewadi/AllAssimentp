@@ -5,6 +5,8 @@ import java.util.List;
 
 //8. Create a List<Integer> and count how many elements are divisible by 3 and 5
 //both.
+
+
 public class QB8 {
 
 	public static void main(String[] args) {

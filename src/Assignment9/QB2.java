@@ -21,5 +21,7 @@ public class QB2 {
 		int len = nameLength.apply(nm);
 		PrintLength.accept(len);
 		
+		
+		
 	}
 }

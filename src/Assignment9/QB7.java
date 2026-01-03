@@ -12,7 +12,7 @@ public class QB7 {
 		//7. Create a program that uses Predicate<Integer> to check if a number is odd, and
 		//if it is, print its square using Function and Consumer .
 		
-		int Number = 4;
+		int Number = 3;
 		
 		Predicate<Integer> POdd = n -> n %2 !=0;
 		

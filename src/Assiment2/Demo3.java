@@ -8,8 +8,8 @@ public class Demo3 {
 		
 		d.printCircle(12);
 		d.printRectangle(1, 10);
+		d.printCircle(5);
 		d.printRhombus(10, 12);
-		d.printSquare(11);
 		
 	}
 }

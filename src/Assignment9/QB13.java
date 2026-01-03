@@ -9,7 +9,7 @@ public class QB13 {
 	public static void main(String[] args) {
 //		13. Use a Function<String, Boolean> (or Predicate<String> ) to check if
 //		a string is a palindrome. Input is from Supplier<String> , output printed using
-//		Consumer<Boolean> .
+//		Consumer<Boolean>.
 		
 		Supplier<String> supplie = () -> "madam";
 		

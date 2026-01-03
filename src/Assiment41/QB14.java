@@ -4,7 +4,7 @@ public class QB14 {
 
 	public static void main(String[] args) {
 		
-		int i = 12253;
+		int i = 0055012;
 		int count = 0;
 		
 		while(i>0) {

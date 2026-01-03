@@ -11,7 +11,7 @@ public class BiF1 {
 		BiFunction<Integer, Integer, Integer> add = (a, b) ->a+b;
 		
 		int result = add.apply(5, 10);
-		
+
 		System.out.println("sum : "+ result);
 	}
 }

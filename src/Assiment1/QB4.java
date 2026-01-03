@@ -1,3 +1,4 @@
+
 package Assiment1;
 
 public class QB4 {

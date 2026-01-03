@@ -18,17 +18,17 @@ public class QB10 {
 	int unit = sc.nextInt();
 	
 	if(unit<=100) {
-		System.out.println("5/unit : " +unit);
+		System.out.println("5 RS/unit : " +unit);
 		int cost = unit*5;
 		System.out.println("cost : " + cost);
 	}else if(unit>=101 && unit<=300) {
-		System.out.println("7/unit : " +unit);
+		System.out.println("7 RS/unit : " +unit);
 		int cost = unit*7;
 		System.out.println("cost : " + cost);
 	}else {
-		System.out.println("10/unit : " +unit);
+		System.out.println("10 RS/unit : " +unit);
 		int cost = unit*10;
-		System.out.println("cost : " + cost);
+		System.err.println("cost : " + cost);
 	}
 }
 }

@@ -14,7 +14,7 @@ public class QB17 {
 		words.add("banana");
 		words.add("orange");
 		words.add("boy");
-		words.add("girl");
+		words.add("Agirl");
 		
 		int count = 0;
 		

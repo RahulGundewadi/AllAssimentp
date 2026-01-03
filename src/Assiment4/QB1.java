@@ -1,6 +1,6 @@
 
 package Assiment4;
-//. Write a program to print all natural numbers from 1 to n (n is a user input)
+//1. Write a program to print all natural numbers from 1 to n (n is a user input)
 public class QB1 {
 
 	public static void main(String[] args) {

@@ -15,7 +15,7 @@ public class QB8 {
 		
 		int a = sc.nextInt();
 		int b = sc.nextInt();
-           
+
 		if(a%2 != 0 && b%2 != 0) {
 			int diff = a-b;
 			System.out.println(diff);
